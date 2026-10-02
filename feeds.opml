@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Indian Small &amp; Midcap High-Quality Equity Research Feeds (100% Free)</title>
+    <dateCreated>Fri, 02 Oct 2026 17:46:00 +0530</dateCreated>
+  </head>
+  <body>
+    <outline text="Indian Small &amp; Midcap Research" title="Indian Small &amp; Midcap Research">
+      <!-- Fundamental Deep Dives & Business Teardowns -->
+      <outline type="rss" text="Scientific Investing" title="Scientific Investing" 
+               xmlUrl="https://scientificinvesting.substack.com/feed" 
+               htmlUrl="https://scientificinvesting.substack.com"/>
+      <outline type="rss" text="SOIC - School of Intrinsic Compounding" title="SOIC" 
+               xmlUrl="https://soic.substack.com/feed" 
+               htmlUrl="https://soic.in"/>
+      <outline type="rss" text="Dr. Vijay Malik - Forensic Stock Analysis" title="Dr. Vijay Malik" 
+               xmlUrl="https://www.drvijaymalik.com/feed/" 
+               htmlUrl="https://www.drvijaymalik.com"/>
+      <outline type="rss" text="2Point2 Capital Blog" title="2Point2 Capital Blog" 
+               xmlUrl="https://2point2capital.com/blog/feed/" 
+               htmlUrl="https://2point2capital.com/blog"/>
+      <outline type="rss" text="Alpha Ideas" title="Alpha Ideas" 
+               xmlUrl="https://alphaideas.in/feed/" 
+               htmlUrl="https://alphaideas.in"/>
+      <outline type="rss" text="Moat Margin Research" title="Moat Margin Research" 
+               xmlUrl="https://moatmargin.substack.com/feed" 
+               htmlUrl="https://moatmarginresearch.com"/>
+      <outline type="rss" text="Marcellus Investment Managers" title="Marcellus Newsletters" 
+               xmlUrl="https://marcellus.in/feed/" 
+               htmlUrl="https://marcellus.in/newsletters/"/>
+      <outline type="rss" text="ValuePickr Forum - Latest Stocks" title="ValuePickr Forum" 
+               xmlUrl="https://forum.valuepickr.com/latest.rss" 
+               htmlUrl="https://forum.valuepickr.com"/>
+      <outline type="rss" text="Fundoo Professor (Prof. Sanjay Bakshi)" title="Fundoo Professor" 
+               xmlUrl="https://fundooprofessor.wordpress.com/feed/" 
+               htmlUrl="https://fundooprofessor.wordpress.com"/>
+      <outline type="rss" text="Capitalmind" title="Capitalmind" 
+               xmlUrl="https://www.capitalmind.in/feed/" 
+               htmlUrl="https://www.capitalmind.in"/>
+      <outline type="rss" text="Safal Niveshak" title="Safal Niveshak" 
+               xmlUrl="https://www.safalniveshak.com/feed/" 
+               htmlUrl="https://www.safalniveshak.com"/>
+    </outline>
+  </body>
+</opml>
