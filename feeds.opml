@@ -40,6 +40,9 @@
       <outline type="rss" text="Safal Niveshak" title="Safal Niveshak" 
                xmlUrl="https://www.safalniveshak.com/feed/" 
                htmlUrl="https://www.safalniveshak.com"/>
+      <outline type="rss" text="Subtext by Zerodha" title="Subtext by Zerodha" 
+               xmlUrl="https://subtextbyzerodha.substack.com/feed" 
+               htmlUrl="https://subtextbyzerodha.substack.com"/>
     </outline>
   </body>
 </opml>

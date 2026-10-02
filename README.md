@@ -24,6 +24,7 @@ A fast, curated, zero-dependency research dashboard aggregating high-conviction 
 | **Marcellus Newsletters** | Saurabh Mukherjea Team | Moats, capital allocation, and working capital cycles |
 | **Fundoo Professor** | Prof. Sanjay Bakshi | Mental models and behavioral governance |
 | **Safal Niveshak** | Vishal Khandelwal | Investment checklists, mental models, and valuation discipline |
+| **Subtext by Zerodha** | Zerodha Team | Markets, finance, macroeconomics, and business teardowns |
 
 ---
 
