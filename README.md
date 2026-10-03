@@ -1,7 +1,7 @@
 # 📈 Indian Small & Midcap Equity Feeds Terminal
 
 > **Live Deployments:**
-> * 🌐 **Cloudflare Workers:** [https://curated-equity-feeds.indian-equity-feeds.workers.dev](https://curated-equity-feeds.indian-equity-feeds.workers.dev)
+> * 🌐 **Cloudflare Workers:** [https://curated-equity-feeds.aravindsuresh.workers.dev](https://curated-equity-feeds.aravindsuresh.workers.dev)
 > * 🐙 **GitHub Pages:** [https://aravind1998.github.io/indian-equity-feeds/](https://aravind1998.github.io/indian-equity-feeds/)
 
 A fast, curated, zero-dependency research dashboard aggregating high-conviction fundamental equity research, business teardowns, and scuttlebutt on Indian small and mid-cap companies (NSE/BSE).
