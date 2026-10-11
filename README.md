@@ -12,6 +12,7 @@ A fast, curated, zero-dependency research dashboard aggregating high-conviction 
 
 | Publication | Author / Team | Focus Area |
 | :--- | :--- | :--- |
+| **Nine One Capital** | Gaurav Agrawal | Disciplined micro-cap investing, balance sheet forensic scrutiny, and special situations |
 | **Scientific Investing** | Suraj & Sai Shreyas V | First-principles engineering physics, industrial platforms, capex cycles |
 | **SOIC** | Ishmohit Arora | Operational teardowns, value chain mapping, concall dissection |
 | **Value Educator** | Shashank Mahajan | Under-researched micro and small-cap compounders |
@@ -29,7 +30,7 @@ A fast, curated, zero-dependency research dashboard aggregating high-conviction 
 ---
 
 ## ⚡ Features
-- **Instant Search**: Filter live across 170+ articles by company name, ticker (`PITTIENG`, `BLISSGVS`, `ACE`, etc.), or industrial keyword.
+- **Instant Search**: Filter live across 215+ articles by company name, ticker (`PITTIENG`, `IRCTC`, `RBZJEWEL`, `ACE`), or industrial keyword.
 - **Source Filtering**: Single-click pills to isolate articles from individual authors.
 - **Ticker Tags**: One-click tags to isolate all research on a specific stock.
 - **One-Click RSS Import**: Download [`feeds.opml`](./feeds.opml) to import all feeds into NetNewsWire, Feedly, or Inoreader.
